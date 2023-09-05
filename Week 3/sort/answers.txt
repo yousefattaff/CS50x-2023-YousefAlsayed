@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: took the least time on sorted and most in reveresd 
+
+sort2 uses: merge sort
+
+How do you know?: took the least time in reversed and random
+
+sort3 uses: selection sort
+
+How do you know?: takes the most time in every assesment, it's
